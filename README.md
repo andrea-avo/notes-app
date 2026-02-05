@@ -1,5 +1,7 @@
-Notes App
+# Notes App
 
-<img width="734" height="481" alt="Screenshot 2026-02-05 091356" src="https://github.com/user-attachments/assets/1f05053e-e9a1-4d99-a86b-f5ca7d68c17a" />
-<img width="734" height="479" alt="Screenshot 2026-02-05 091412" src="https://github.com/user-attachments/assets/d1520831-2f64-4f91-a85d-9eb6463e00dd" />
-<img width="736" height="481" alt="Screenshot 2026-02-05 091442" src="https://github.com/user-attachments/assets/608aecf0-334c-4728-bd10-abd129ffc17c" />
+| **Status** <img width="300" height="1"> | : | Stable |
+| :--- | :---: | :--- |
+| **Features** | : | 1. **Note Management (CRUD)**: Create, read, edit and delete notes easily.<br>2. **Smart Search**: Filter notes instantly by title or content.<br>3. **Auto-Save**: Real-time indicator ensures your work is saved. |
+| **Tech Stack** | : | • **Language**: Dart<br>• **Framework**: Flutter<br>• **API**: MockAPI<br>• **Tools**: VS Code |
+| **Interface** | : | <div align="center"><img src="https://github.com/user-attachments/assets/d2712fea-b8a7-42d0-a2a8-6fbce30d4ba2" width="180" /> <img src="https://github.com/user-attachments/assets/9fe17691-692c-4d57-8a7e-00b694398cbc" width="180" /> <img src="https://github.com/user-attachments/assets/30bbf89b-cccb-4274-9b8b-f1332bffa774" width="180" /></div> |
